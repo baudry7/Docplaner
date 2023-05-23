@@ -1,0 +1,28 @@
+li{
+    display: inline
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    width: 70%;
+    margin-inline: auto;
+}
+
+.docplaner-color{
+    color: #3FBCB0;
+}
+
+.graycolor{
+    color: rgb(171,189,215);
+}
+
+div{
+    text-align: center;
+}
+
+h6{
+    padding-right: 50%;
+    color: #3FBCB0;
+    
+}
